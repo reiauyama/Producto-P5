@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.nav{
+    list-style: none;
+    overflow: auto;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 10px;
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(191, 200, 208);
+    background-color: rgb(52, 39, 58);
+    
+}
+.nav li{
+    display: inline;
+    margin-left: 30px;
+}
+.nav li:hover{
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(43, 43, 41);
+    
+}
+
+.rightNav{
+    margin-left: auto;
+    list-style: none;
+    
+
+    
+}

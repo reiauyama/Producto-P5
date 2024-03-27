@@ -1,0 +1,19 @@
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0)
+    
+}
+.footerContainer h1{
+    margin-bottom: 10px;
+}
+.footerContainer a{
+  
+  text-decoration: none;
+  color: aliceblue;
+}
